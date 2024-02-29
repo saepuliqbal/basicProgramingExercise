@@ -7,3 +7,7 @@ Study Program : Teknik Informatika
 name : Abel Hendrik M.P
 SN : 20230040075
 SP : Informatics Engineering 
+
+name : Dikri Ali
+SN : 20230040064
+SP : Informatics Engineering 
